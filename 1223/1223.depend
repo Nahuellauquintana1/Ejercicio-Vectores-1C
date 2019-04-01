@@ -11,3 +11,15 @@
 	<stdio.h>
 	<stdlib.h>
 
+1554132981 source:c:\users\nahue\desktop\ejercicio-vectores-1c-master\1223\vector.c
+	"vector.h"
+	<stdio.h>
+	<stdlib.h>
+
+1554132981 c:\users\nahue\desktop\ejercicio-vectores-1c-master\1223\vector.h
+
+1554149535 source:c:\users\nahue\desktop\ejercicio-vectores-1c-master\1223\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vector.h"
+
